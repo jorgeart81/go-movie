@@ -6,7 +6,7 @@
 
 # IDE - VSCode
 .idea
-.vscode/*
+# .vscode/*
 
 # Docker - dev environment
 postgres-data/
